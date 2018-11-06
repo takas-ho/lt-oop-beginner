@@ -1,2 +1,2 @@
-# Template slide
+# OOP なにもわからない
 
